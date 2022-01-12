@@ -1,0 +1,8 @@
+[[DuckDB]]
+arch = "aarch64"
+git-tree-sha1 = "3338359da5677ac12acff3653d73f0c2f7a488d4"
+os = "macos"
+
+    [[DuckDB.download]]
+    sha256 = "eec8f0a927d60f665ccab3cbbc001e16b8e4a1a10d2c2d8acff7350e1a2d5f19"
+    url = "https://github.com/jeremiahpslewis/DuckDB_jll.jl/releases/download/DuckDB-v0.3.1+2/DuckDB.v0.3.1.aarch64-apple-darwin.tar.gz"
